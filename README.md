@@ -22,6 +22,4 @@ The course curriculum includes the following technologies and topics mastered by
 - AI & Prompt Design
 
 
-Hope this repo will help you to assess my coding, data analytics and SQL skills.
-
 G.
